@@ -7,3 +7,7 @@ Its primary purpose is to:
 * Equip students, educators, and researchers with a user-friendly training environment for real-world applications and interdisciplinary learning.
 * Provide a versatile and scalable system that supports classroom instruction, capstone projects, R&D, and technology deployment.
 * Demonstrate innovation in areas such as smart agriculture, smart cities, environmental sensing, wireless communication, and edge computing.
+
+### Board Components
+FUTURE-LAB is built around the LILYGO TTGO LoRa32, a compact yet powerful development board based on the ESP32 microcontroller, which integrates key wireless communication features and embedded peripherals for rapid Internet of Things (IoT) prototyping and education.
+

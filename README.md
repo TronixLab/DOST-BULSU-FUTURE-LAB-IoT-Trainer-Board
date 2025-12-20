@@ -10,9 +10,8 @@ Its primary purpose is to:
 
 ### Board Components
 FUTURE-LAB is built around the LILYGO TTGO LoRa32, a compact yet powerful development board based on the ESP32 microcontroller, which integrates key wireless communication features and embedded peripherals for rapid Internet of Things (IoT) prototyping and education.
-<div style="text-align: center;">
-  <img src="https://github.com/TronixLab/DOST-BULSU-FUTURE-LAB-IoT-Trainer-Board/blob/main/media/1.png" alt="Description">
-  <p style="text-align: center;">LILYGO TTGO LoRa32 V2.1_6.1 Wi-Fi + Bluetooth LoRa Board</p>
-</div>
+| ![1.png]([http://www.storywarren.com/wp-content/uploads/2016/09/space-1.jpg](https://github.com/TronixLab/DOST-BULSU-FUTURE-LAB-IoT-Trainer-Board/blob/main/media/1.png)) | 
+|:--:| 
+| *LILYGO TTGO LoRa32 V2.1_6.1 Wi-Fi + Bluetooth LoRa Board* |
 
 

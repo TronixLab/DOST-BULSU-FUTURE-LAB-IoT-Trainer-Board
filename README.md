@@ -64,7 +64,7 @@ Designed to simulate various real-world input conditions and allow users to inte
 * **AGS10** TVOC Air Quality Sensor: Detects total volatile organic compounds (TVOCs); used for indoor air quality analysis.
 * **DHT22** Digital Temperature and Humidity Sensor: Provides calibrated temperature and relative humidity readings with high accuracy.
 * **AM312** PIR Motion Sensor: Detects human presence or motion using passive infrared radiation sensing.
-7. Actuator Section: Transistor/MOSFET drivers for controlling actuators, relays, or motors.
+7. **Actuator Section**: Transistor/MOSFET drivers for controlling actuators, relays, or motors.
 * **Electromechanical Relay Switch**: Switches AC/DC loads using isolated digital control. Used for on/off control of lamps, solenoids, and appliances.
 * **Solid State Relay Switch (SSR)**: Silent, fast-switching alternative to mechanical relays. Suitable for switching AC devices with zero-crossing detection.
 * **H-Bridge Dual Motor Driver (L293D)**: Controls two DC motors bidirectionally using four digital signals. Supports speed control via PWM.
@@ -72,9 +72,9 @@ Designed to simulate various real-world input conditions and allow users to inte
 * **Passive & Active Speakers**: Demonstrate audio signal output and PWM sound synthesis. Active speaker accepts line-level signal; passive uses PWM.
 * **Stepper Motor Driver (ULN2003)**: Drives unipolar stepper motors like the 28BYJ-48 using micro stepping control sequences.
 * **Servo Motor (SG90)**: Standard 3-pin RC servo for angular position control (0°–180°) via PWM signal.
-7. Display Section: Support for character or graphical Liquid Crystal Display (LCD) 16x2 screen via I²C or parallel interface.
-**16x2 LCD HS1602A-Y**: a standard 16×2 LCD based on the HD44780 controller, widely used in embedded systems for displaying text. It supports both 4-bit and 8-bit parallel interfaces, and is also compatible with I²C backpack modules for reduced pin usage.
-8. Communications Section: Extended UART/I²C headers for integrating external modules, NB-IoT Module, RS-485 Modbus interface, and IR controller communication.
+8. **Display Section**: Support for character or graphical Liquid Crystal Display (LCD) 16x2 screen via I²C or parallel interface.
+* **16x2 LCD**: a standard 16×2 LCD based on the HD44780 controller, widely used in embedded systems for displaying text. It supports both 4-bit and 8-bit parallel interfaces, and is also compatible with I²C backpack modules for reduced pin usage.
+9. **Communications Section**: Extended UART/I²C headers for integrating external modules, NB-IoT Module, RS-485 Modbus interface, and IR controller communication.
 * **RS-485 to UART Converter (Bidirectional)**: Enables long-distance, differential serial communication over twisted pair. Supports Modbus RTU and other RS-485 protocols via UART bridging.
 * **Waveshare SIM7600G-H 4G LTE Module**: Waveshare SIM7600G-H 4G LTE Module
 * **I²C Bus (Inter-Integrated Circuit)**: Two-wire serial bus (SDA/SCL) used for communicating with multiple onboard and external digital sensors and displays. Pull-up resistors included for signal integrity.

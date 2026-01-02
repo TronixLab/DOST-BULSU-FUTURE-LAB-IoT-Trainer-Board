@@ -8,7 +8,7 @@ Its primary purpose is to:
 * Provide a versatile and scalable system that supports classroom instruction, capstone projects, R&D, and technology deployment.
 * Demonstrate innovation in areas such as smart agriculture, smart cities, environmental sensing, wireless communication, and edge computing.
 
-| ![1.png](https://github.com/TronixLab/DOST-BULSU-FUTURE-LAB-IoT-Trainer-Board/blob/main/media/FUTURE-LAB%20BOARD.png) | 
+| ![1.png](https://github.com/TronixLab/DOST-BULSU-FUTURE-LAB-IoT-Trainer-Board/blob/main/media/FUTURE-LAB%20BOARD.png?raw=true) | 
 |:--:| 
 | *FUTURE-LAB IoT Trainer Board* |
 
